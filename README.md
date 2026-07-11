@@ -1,1 +1,2 @@
-# git-practice
+# Git 学习练习
+这是我的第一个 Git 仓库。
